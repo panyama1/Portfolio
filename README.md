@@ -1,2 +1,2 @@
 # Portfolio
-A collection of my many feats of programming
+A collection of programs
